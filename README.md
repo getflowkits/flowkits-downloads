@@ -1,14 +1,45 @@
 # FlowKits Downloads
 
-Public download host for FlowKits companion applications. **Releases only — no source code lives here.**
+Companion apps for FlowKits products.
 
-Companion apps are small local helpers that let a FlowKits widget or profile talk to
-desktop software on your own machine. They run entirely on your PC.
+A FlowKits widget is a screen. It shows you controls and reacts to what you are doing, but it
+cannot press keys or talk to the software on your PC by itself. The companion is a small
+program that does that part. It runs entirely on your own machine.
 
-## Current downloads
+You only need a companion if you own the product it belongs to. Each one has a setup guide
+that walks through it.
 
-- **Xeneon LrC Companion** — the Lightroom Classic plug-in for the FlowKits
-  *Lightroom Classic Control* widget on the Corsair Xeneon Edge.
-  Setup guide: <https://getflowkits.com/lightroom-icue-companion>
+## Downloads
 
-See the [Releases](../../releases) tab.
+**Star Citizen Edge Control Companion**
+For the *Star Citizen Edge Control* widget on the Corsair Xeneon Edge.
+[Download](https://github.com/getflowkits/flowkits-downloads/releases/download/sc-edge-latest/FlowKits-SC-Edge-Companion.zip)
+· [Setup guide](https://getflowkits.com/setup-companion/star-citizen)
+
+**Xeneon LrC Companion**
+For the *Lightroom Classic Control* widget on the Corsair Xeneon Edge.
+[Download](https://github.com/getflowkits/flowkits-downloads/releases/latest/download/Xeneon-LrC-Companion-Plugin.zip)
+· [Setup guide](https://getflowkits.com/lightroom-icue-companion)
+
+## Windows will warn you the first time
+
+You will see a blue box saying "Windows protected your PC". Click **More info**, then
+**Run anyway**.
+
+This happens to small programs that are not published by a large company, and it happens
+once. We would rather tell you about it up front than have you wonder whether something
+went wrong.
+
+## What these programs do
+
+They talk between a FlowKits widget and an application on your PC, which depending on the
+product means sending keystrokes, reading an application's own log file, or both.
+
+Everything happens locally. Nothing about you or how you use the software is sent anywhere.
+Each companion checks occasionally whether a newer version exists, which is a plain request
+for a small file on our website and carries no information about you.
+
+## Help
+
+Something not working? Start with the setup guide for your product above, then
+[get in touch](https://getflowkits.com/contact/).
