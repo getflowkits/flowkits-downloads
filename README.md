@@ -23,11 +23,13 @@ For the *Lightroom Classic Control* widget on the Corsair Xeneon Edge.
 
 ## Windows will warn you the first time
 
-You will see a blue box saying "Windows protected your PC". Click **More info**, then
+You will see a box saying "Windows protected your PC". Click **More info**, then
 **Run anyway**.
 
+The box is usually blue or green, because Windows tints it with your accent color.
+
 This happens to small programs that are not published by a large company, and it happens
-once. We would rather tell you about it up front than have you wonder whether something
+once. I would rather tell you about it up front than have you wonder whether something
 went wrong.
 
 ## What these programs do
@@ -37,7 +39,7 @@ product means sending keystrokes, reading an application's own log file, or both
 
 Everything happens locally. Nothing about you or how you use the software is sent anywhere.
 Each companion checks occasionally whether a newer version exists, which is a plain request
-for a small file on our website and carries no information about you.
+for a small file on my website and carries no information about you.
 
 ## Help
 
