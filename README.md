@@ -11,6 +11,11 @@ that walks through it.
 
 ## Downloads
 
+**Music Pro Companion**
+For the *Music Pro* widget on the Corsair Xeneon Edge.
+[Download](https://github.com/getflowkits/flowkits-downloads/releases/download/music-pro-latest/FlowKits-Music-Pro-Companion.zip)
+· [Setup guide](https://getflowkits.com/setup-companion/music-pro)
+
 **Star Citizen Edge Control Companion**
 For the *Star Citizen Edge Control* widget on the Corsair Xeneon Edge.
 [Download](https://github.com/getflowkits/flowkits-downloads/releases/download/sc-edge-latest/FlowKits-SC-Edge-Companion.zip)
@@ -34,8 +39,9 @@ went wrong.
 
 ## What these programs do
 
-They talk between a FlowKits widget and an application on your PC, which depending on the
-product means sending keystrokes, reading an application's own log file, or both.
+They talk between a FlowKits widget and an application on your PC. Depending on the product
+that means sending keystrokes, reading an application's own log file, or reading and
+controlling whatever Windows is currently playing.
 
 Everything happens locally. Nothing about you or how you use the software is sent anywhere.
 Each companion checks occasionally whether a newer version exists, which is a plain request
